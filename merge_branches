@@ -1,0 +1,13 @@
+theia@theia-ayushmahaja1:/home/project/mcino-Introduction-to-Git-
+and-GitHub$ git checkout -b bug-fix-typo
+Switched to a new branch 'bug-fix-typo'
+theia@theia-ayushmahaja1:/home/project/mcino-Introduction-to-Git-
+and-GitHub$ git branch
+* bug-fix-typo
+  main
+theia@theia-ayushmahaja1:/home/project/mcino-Introduction-to-Git-
+and-GitHub$ nano README.md   # or use your editor
+theia@theia-ayushmahaja1:/home/project/mcino-Introduction-to-Git-and-GitHub$ git add README.md
+theia@theia-ayushmahaja1:/home/project/mcino-Introduction-to-Git-and-GitHub$ git commit -m "Fix typo in README footer year"
+[bug-fix-typo b0f346a] Fix typo in README footer year
+ 1 file changed, 1 insertion(+)
