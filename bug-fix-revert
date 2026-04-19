@@ -1,0 +1,16 @@
+Pull Request Title: Bug fix typo #6990
+Status: Closed
+Created by: TheCrazyBud
+Source branch: TheCrazyBud:bug-fix-typo
+Target branch: ibm-developer-skills-network:main
+
+Description: No description provided
+
+Commits:
+
+7c74910 — Update README.md (Verified)
+
+b0f346a — Fix typo in README footer year (Verified)
+
+Bot Comment:  
+“Congratulations! You have completed the lab. Closing for maintenance purpose.” — github-actions (bot)
